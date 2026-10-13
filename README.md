@@ -42,7 +42,7 @@ I lead the expansion to new universities and build the platform behind it: a sit
 
 | Result | Event | What we built |
 |---|---|---|
-| **2nd place** ($2K) | Hack4Health, Medical College of Wisconsin | AI tool that rewrites radiology reports in plain language for patients |
+| **2nd place** ($2K) | [Hack4Health](https://github.com/MAIC-Hacksgiving/hack-4-health-2026-dominance), Medical College of Wisconsin | AI tool that rewrites radiology reports in plain language for patients |
 | **Special prize** | Stack Auth hackathon, San Francisco (Nov 2025) | |
 | 3× participant | Hacksgiving "AI for Good", Milwaukee | Solutions for Discovery World, the Milwaukee Domes and NextStep Clinic |
 
