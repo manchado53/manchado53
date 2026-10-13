@@ -22,11 +22,11 @@ My family taught me that you receive what you give. So I build technology that i
 <a href="https://all-ai-network.org"><img src="https://img.shields.io/badge/all--ai--network.org-visit-6E40C9?style=for-the-badge" /></a>
 <a href="https://github.com/ALL-Applied-AI-Network"><img src="https://img.shields.io/badge/GitHub-ALL--Applied--AI--Network-181717?style=for-the-badge&logo=github" /></a>
 
-Student-run AI chapters where students build real projects for real companies and get hired from the room. Free, open source, no cut. The founding chapter is the MSOE AI Club, with about 600 members and speakers from NVIDIA, Direct Supply, Kohl's and Generac.
+Student-run AI chapters where students build real projects for real companies and get hired from the room. Free, with no cut. The network has 850+ members across 11 chapters. The founding chapter, the MSOE AI Club, has close to 700, with speakers from NVIDIA, Direct Supply, Kohl's and Generac.
 
-I lead the expansion to new universities and build the platform behind it: a site for every chapter ([template](https://github.com/ALL-Applied-AI-Network/aain-hub-template)), a member dashboard, a sponsor portal, and hackathon tooling that sets up a repo for every team. It is running the Rockwell Automation × NVIDIA hackathon right now.
+I lead the expansion to new universities and contribute to the platform behind it: the sponsor portal, the chapter dashboard, and the open-source [chapter-site template](https://github.com/ALL-Applied-AI-Network/aain-hub-template). The platform is running the Rockwell Automation × NVIDIA hackathon right now, with a repo for every team.
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vercel" height="28"/>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,vercel" height="28"/>
 
 ---
 
