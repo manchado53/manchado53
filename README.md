@@ -11,6 +11,10 @@
   <a href="https://arxiv.org/abs/2604.08722"><img src="https://img.shields.io/badge/arXiv-2604.08722-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" /></a>
 </p>
 
+I grew up in Cubas de la Sagra, a small town outside Madrid, entering every math competition I could find. Math led me to competitive programming, and that is how I got into code. At 18 I moved to the US alone to play soccer, and I'm the first in my family to earn a college degree.
+
+My family taught me that you receive what you give. So I build technology that improves people's lives, and I spend a lot of my time helping other students get into AI.
+
 ---
 
 ## ALL Applied AI Network
