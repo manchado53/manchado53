@@ -13,16 +13,38 @@
 
 ---
 
+## ALL Applied AI Network
+
+<a href="https://all-ai-network.org"><img src="https://img.shields.io/badge/all--ai--network.org-visit-6E40C9?style=for-the-badge" /></a>
+<a href="https://github.com/ALL-Applied-AI-Network"><img src="https://img.shields.io/badge/GitHub-ALL--Applied--AI--Network-181717?style=for-the-badge&logo=github" /></a>
+
+Student-run AI chapters where students build real projects for real companies and get hired from the room. Free, open source, no cut. The founding chapter is the MSOE AI Club, with about 600 members and speakers from NVIDIA, Direct Supply, Kohl's and Generac.
+
+I lead the expansion to new universities and build the platform behind it: a site for every chapter ([template](https://github.com/ALL-Applied-AI-Network/aain-hub-template)), a member dashboard, a sponsor portal, and hackathon tooling that sets up a repo for every team. It is running the Rockwell Automation × NVIDIA hackathon right now.
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vercel" height="28"/>
+
+---
+
 ## Projects
 
 | Project | What it is | Stack |
 |---|---|---|
 | **[Revit-to-Robot Digital Twin](https://github.com/manchado53/Isaac-Sim-MSOE)** | Turns an architect's Revit model into an NVIDIA Isaac Sim twin of a building that was still under construction. Synthetic labeled data, a LoRA-tuned VLM (93% on real door photos), and a Nova Carter robot patrolling with ROS 2 Nav2. Rosie Supercomputer Challenge 2026 finalist, MICS 2026 paper. | <img src="https://skillicons.dev/icons?i=py,pytorch,ros" height="24"/> |
-| **Office Guide Robot (Direct Supply)** | Summer 2026 build with my brother Rodrigo. A Hiwonder JetRover on a Jetson Orin Nano that guides visitors around the office: "take me to X", it leads the way and talks. ROS 2 + Nav2 on a LiDAR SLAM map, depth camera for low obstacles, Claude as the voice brain, a phone control app. Rodrigo wrote the code. I was his advisor: picked the hardware, set the scope, wrote the business case, and ran the demo. (Code is private.) | <img src="https://skillicons.dev/icons?i=py,ros,linux" height="24"/> |
+| **[Office Guide Robot (Direct Supply)](https://github.com/manchadito09/Robot-DS)** | Summer 2026 build with my brother [Rodrigo](https://github.com/manchadito09). A Hiwonder JetRover on a Jetson Orin Nano that guides visitors around the office: "take me to X", it leads the way and talks. ROS 2 + Nav2 on a LiDAR SLAM map, depth camera for low obstacles, Claude as the voice brain, a phone control app. Rodrigo wrote the code. I was his advisor: picked the hardware, set the scope, wrote the business case, and ran the demo. | <img src="https://skillicons.dev/icons?i=py,ros,linux" height="24"/> |
 | **[AI-Driven Soccer Analysis](https://github.com/manchado53/AI-Driven-Soccer-Analysis)** | One cheap camera in, match stats out: player and ball tracking, speed, distance, possession, heatmaps for a D3 team. Custom YOLOv8 field-keypoint model. [Paper on arXiv](https://arxiv.org/abs/2604.08722), 3rd place at the Rosie Challenge. | <img src="https://skillicons.dev/icons?i=py,pytorch,opencv" height="24"/> |
 | **[raider-stats.com](https://raider-stats.com/)** | Web platform for the MSOE Men's Soccer team, built with [Jonny Keane](https://github.com/JKeane4210) over 3 years. Coaches log practices, generate lineups, and track player development. 40+ users. | <img src="https://skillicons.dev/icons?i=py,docker,aws" height="24"/> |
 | **Milwaukee Bucks Shot Similarity** | Search engine for 22,000+ 3D motion-capture shots, built for the Bucks' medical and analytics staff. Finds shots where the body moves the same way, regardless of court spot or make/miss. (Code is private.) | <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,react" height="24"/> |
-| **[ALL Applied AI Network](https://github.com/ALL-Applied-AI-Network)** | National network of student AI clubs. MSOE AI Club is chapter #1, with about 500 members across 5 universities. I lead expansion and built the chapter site template. | <img src="https://skillicons.dev/icons?i=ts,react,nextjs" height="24"/> |
+
+---
+
+## Hackathons
+
+| Result | Event | What we built |
+|---|---|---|
+| **2nd place** ($2K) | Hack4Health, Medical College of Wisconsin | AI tool that rewrites radiology reports in plain language for patients |
+| **Special prize** | Stack Auth hackathon, San Francisco (Nov 2025) | Email Analyzer: reads your Gmail, finds meetings and to-dos, and puts them on your calendar. Stack Auth login, Next.js |
+| 3× participant | Hacksgiving "AI for Good", Milwaukee | Solutions for Discovery World, the Milwaukee Domes and NextStep Clinic |
 
 ---
 
