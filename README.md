@@ -57,3 +57,12 @@ I lead the expansion to new universities and build the platform behind it: a sit
 - Research mentor in the MSOE AI Club. My student researchers went on to NVIDIA, GE Healthcare and Cognex.
 - First Team Academic All-American, MSOE soccer captain, 2026 commencement student speaker.
 - Tau Beta Pi, 8× Dean's List.
+
+**What I'm into**
+
+- **Robotics and space.** The problems I want to spend my life on.
+- **Startups.** I study how great founders built their companies, and I went to YC AI Startup School in 2026.
+- **Soccer and the gym.** I played defender for four years, and I still work out almost every day.
+- **Reading.** One chapter a day.
+- **Meeting people.** I'll cold-email anyone building something interesting.
+- **Volunteering.** Senior care visits and food pantries with Tau Beta Pi.
